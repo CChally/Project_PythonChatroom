@@ -9,7 +9,7 @@ def authenticate(client_socket, client_address):
             host="localhost",
             port = 3306,
             user="root",
-            password="61ef255efCHDIR1f3!",
+            password="",
             database="chatroom"
         )
     except:
